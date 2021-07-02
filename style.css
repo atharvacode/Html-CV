@@ -1,5 +1,5 @@
 body {
-  background-color: #EAF6F6;
+  background-color: #eaf6f6;
 }
 hr {
   border-style: none;
@@ -8,9 +8,22 @@ hr {
   border-width: 5px;
   width: 5%;
 }
+
+.link {
+  text-decoration: none;
+  color: black;
+}
+
+.link a:hover {
+  color: green;
+}
+.link a:visited {
+  color: red;
+}
+
 h1 {
-  color: #6A2C70;
+  color: #6a2c70;
 }
 h3 {
-  color: #F07B3F;
+  color: #f07b3f;
 }
